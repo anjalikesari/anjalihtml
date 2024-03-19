@@ -1,2 +1,2 @@
 # anjalihtml
-CLICK THIS: https://anjalikesari.github.io/anjalihtml/#
+CLICK THIS: https://anjalikesari.netlify.app/#
